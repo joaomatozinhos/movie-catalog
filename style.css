@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto Mono', monospace;
+  text-align: center;
+  background-image: url('https://images.squarespace-cdn.com/content/v1/5bfc47ec4cde7a5d18b3b843/1544510927197-NFF7ZGNSWA1WJMQSX35T/stage-background.jpg?format=2500w');
+  background-color: #000000;
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+#logo {
+  clip-path: circle();
+  width: 90px;
+  height: auto;
+}
+
+.page-title {
+  color: red;
+  margin: 0 0 5px;
+}
+
+#adicionar {
+  margin-bottom: 10px;
+  padding: 5px;
+  width: 370px;
+  border-radius: 9px;
+  outline: none;
+  cursor: pointer;
+}
+
+button {
+  padding: 5px;
+  text-align: center;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: rgb(182, 13, 13);
+  color: white;
+}
+
+img {
+  width: 170px;
+  height: 250px;
+  margin: 5px 14px;
+}
