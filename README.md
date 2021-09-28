@@ -1,7 +1,7 @@
 # Movie Catalog
-Catalog to insert the best movies
+Catalog to insert the best movies.
 
-Project made to train JavaScript
+Project made to train JavaScript.
 
 ## Final Result
 
